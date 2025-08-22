@@ -1,9 +1,12 @@
-#BACKEND PROJECT
-->Practice and boilerplate.
+# BACKEND PROJECT
 
--> for .gitignore file: https://mrkandreev.name/snippets/gitignore-generator/#Node
--> install nodemon like this: npm install --save-dev nodemon or npm i -D nodemon
--> inside scripts do this:
-"scripts": {
-"dev": "nodemon src/index.js"
-}
+- Practice and boilerplate.
+
+- For `.gitignore` file: [Gitignore Generator (Node)](https://mrkandreev.name/snippets/gitignore-generator/#Node)
+
+- Install nodemon:
+  ```bash
+  npm install --save-dev nodemon
+  # or
+  npm i -D nodemon
+  ```
